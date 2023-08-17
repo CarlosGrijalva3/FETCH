@@ -1,0 +1,13 @@
+body{
+    background: #fefcff
+}
+
+table thead {
+    background: 302b63;
+    color: #f55d8a;
+}
+
+td ,Id{
+    color: rgb(56, 56, 56);
+    
+}
